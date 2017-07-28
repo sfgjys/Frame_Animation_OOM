@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="loading_anim">
+         <item>@mipmap/img0</item>
+         <item>@mipmap/img1</item>
+         <item>@mipmap/img2</item>
+         <item>@mipmap/img3</item>
+         <item>@mipmap/img4</item>
+         <item>@mipmap/img5</item>
+         <item>@mipmap/img6</item>
+         <item>@mipmap/img7</item>
+         <item>@mipmap/img8</item>
+         <item>@mipmap/img9</item>
+         <item>@mipmap/img10</item>
+         <item>@mipmap/img11</item>
+         <item>@mipmap/img12</item>
+         <item>@mipmap/img13</item>
+         <item>@mipmap/img14</item>
+         <item>@mipmap/img15</item>
+         <item>@mipmap/img16</item>
+         <item>@mipmap/img17</item>
+         <item>@mipmap/img18</item>
+         <item>@mipmap/img19</item>
+         <item>@mipmap/img20</item>
+         <item>@mipmap/img21</item>
+         <item>@mipmap/img22</item>
+         <item>@mipmap/img23</item>
+         <item>@mipmap/img24</item>
+     </string-array>
+</resources>
